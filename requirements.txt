@@ -1,4 +1,4 @@
-scikit-learn==1.3.0
-streamlit==1.26.0
-numpy==1.25.2
-scikit-learn  # likely used for model and scaler
+numpy==1.21.6
+streamlit==1.10.0
+scikit-learn==1.0.2
+pickle5==0.0.11
